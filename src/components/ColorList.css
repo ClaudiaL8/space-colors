@@ -1,0 +1,12 @@
+.space-colors__list {
+  list-style: none;
+  margin: 0;
+  padding: 40px 0;
+}
+.space-colors__item {
+  margin: 0 auto;
+  width: 540px;
+}
+.space-colors__item + .space-colors__item {
+  margin-top: 20px;
+}
